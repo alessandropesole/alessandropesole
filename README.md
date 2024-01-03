@@ -4,7 +4,7 @@
 <p>Thanks to the intensive course organized by Epicode, I learned how to use the main backend frameworks. My goal is to grow as a developer in a work context that can also enrich me as a human being.</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
 
-- 📫 How to reach me **alessandropesole@gmail.com**
+- 📫 How to reach me: **alessandropesole@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
